@@ -1,0 +1,16 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2 ?
+
+1. HTTP1.1 was created in 1997
+   HTTP2 was created in 2015
+2. It works on the textual format.
+   It works on the binary protocol.
+3. Multiplexing:
+   * HTTP/1.1 loads resources one after the other, so if one resource cannot be loaded, it blocks all the other resources behind it. 
+   * HTTP/2 is able to use a single TCP connection to send multiple streams of data at once so that no one resource blocks any other resource.
+4. Server Push:
+   * HTTP1.1 server only serves content to a client device if the client asks for it. However, this approach is not always practical for modern webpages, which often involve several dozen separate resources that the client must request.
+   * HTTP/2 solves this problem by allowing a server to "push" content to a client before the client asks for it. 
+5. Header Compression:
+   *Small files load more quickly than large ones. To speed up web performance, both HTTP/1.1 and HTTP/2 compress HTTP messages to make them smaller.
+   * However, HTTP/2 uses a more advanced compression method called HPACK that eliminates redundant information in HTTP header packets
+
