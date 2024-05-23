@@ -1,0 +1,45 @@
+Read about IP address, port, HTTP methods, MAC address ?
+
+1. IP address:
+ 
+ * IP Address- Internet Protcol Address
+
+ * An Internet Protocol (IP) address is the unique identifying number assigned to every device connected to the internet.
+
+ * An IP address definition is a numeric label assigned to devices that use the internet to communicate.
+
+ * Computers that communicate over the internet or via local networks share information to a specific location using IP addresses.
+
+ * Every device with an internet connection has an IP address, whether it's a computer, laptop, IoT device, or even toys.
+
+2. IP Port:
+
+ * A port number is a way to identify a specific process to which an internet or other network message is to be forwarded when it arrives at a server.
+
+ * All network-connected devices come equipped with standardized ports that have an assigned number.
+
+ * These numbers are reserved for certain protocols and their associated function.
+
+ * Hypertext Transfer Protocol (HTTP) messages, for example, always go to port 80 -- one of the most commonly used ports.
+
+3. HTTP Methods:
+
+ * HTTP-Hypertext Transfer Protocol.
+
+ * HTTP specifies a collection of request methods to specify what action is to be performed on a particular resource.
+
+ * The most commonly used HTTP request methods are GET, POST, PUT, PATCH, and DELETE.
+
+ * These are equivalent to the CRUD operations (create, read, update, and delete).
+
+4. MAC Address:
+
+ * MAC Address-Medium Access Control Address.
+
+ * A MAC address is a unique identifier assigned to a network interface control (NIC) for use as a network address in communications within a network segments.
+
+ * This use is common in most IEEE 802 networking technologies, including Ethernet, Wi-Fi, and Bluetooth.
+
+ * Within the Open Systems Interconnection (OSI) network model, MAC addresses are used in the medium access control protocol sublayer of the data link layer.
+
+ * MAC addresses are recognizable as six groups of two hexadecimal digits, separated by hyphens, colons, or without a separator.
